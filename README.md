@@ -36,7 +36,7 @@ pip install jovian opendatasets pandas scikit-learn
    ```
 2. Navigate to the project directory:
    ```
-   cd used-car-quality-detection
+   cd Used_car_detection
    ```
 3. Run the Jupyter notebook:
    ```
